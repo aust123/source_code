@@ -1,7 +1,7 @@
 <!--
  * @Author: wayne
  * @Date: 2020-10-28 16:22:42
- * @LastEditTime: 2020-10-28 17:01:42
+ * @LastEditTime: 2020-10-28 17:08:59
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \source-code\vue.md
@@ -47,7 +47,7 @@
 
 #### 集中式状态管理
 
-> vue重vuex的概念
+> vue中vuex的概念
 
 #### 项目构建
 
