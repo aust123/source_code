@@ -1,0 +1,16 @@
+{
+  "name": "source-code",
+  "version": "1.0.0",
+  "description": "<!--\r  * @Author:wayne\r  * @Date: 2020-10-26 11:34:56\r  * @LastEditTime: 2020-10-26 11:49:24\r  * @LastEditors: Please set LastEditors\r  * @Description: In User Settings Edit\r  * @FilePath: \\source-code\\readme.md\r -->\r ## 源码学习总结",
+  "main": "new.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js --progress --color"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0"
+  }
+}
